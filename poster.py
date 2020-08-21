@@ -1,4 +1,4 @@
 def test_element():
     x = 5
-    print('!!!!!OH MY!!!!')
+    print('!!OH MY!')
     assert 5==5
